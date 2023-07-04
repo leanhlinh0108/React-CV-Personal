@@ -2,7 +2,6 @@
 import "./Contact.css";
 // Icons:
 import { AiOutlineMail, AiOutlineMobile, AiOutlineWhatsApp } from "react-icons/ai";
-import { FaViber, FaTelegramPlane } from "react-icons/fa";
 // Hook:
 import { useRef } from "react";
 // Email.js service:

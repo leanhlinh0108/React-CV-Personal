@@ -1,39 +1,39 @@
 // Styles:
 import "./Portfolio.css";
 // Images:
-import ReactMovieDatabaseImage from "../../assets/images/movie-database.png";
-import ReactRealEstateMarketplaceImage from "../../assets/images/real-estate-marketplace.png";
-import PhotoBootcampImage from "../../assets/images/photo-bootcamp.png";
-import ReactWeatherAppImage from "../../assets/images/weather-app.png";
+import ReactQuizHour from "../../assets/images/qqqqrr.png";
+import ReactBookingTravel from "../../assets/images/ttttttt.png";
+import VietNhatSchool from "../../assets/images/adsdd.png";
+import EnglishTest from "../../assets/images/cccccccc.png";
 
 const portfolioItems = [
   {
     id: 1,
-    image: ReactRealEstateMarketplaceImage,
-    title: "Real Estate Market React App",
-    githubLink: "https://github.com/VladimirVolvakov/real-estate-marketplace",
-    watchLiveLink: "https://real-estate-market-pi.vercel.app/"
+    image: ReactQuizHour,
+    title: "React QuizHour",
+    githubLink: "",
+    watchLiveLink: "https://www.figma.com/file/DEL77IPvMYvWklSTcAVPq3/Untitled?type=design&node-id=101-651&mode=design&t=vXRVOFnhe6POFzSK-0"
   },
   {
     id: 2,
-    image: ReactMovieDatabaseImage,
-    title: "Movie Database React App",
-    githubLink: "https://github.com/VladimirVolvakov/react-movie-database",
-    watchLiveLink: "https://melodious-torrone-14d58e.netlify.app/"
+    image: ReactBookingTravel,
+    title: "React Booking Travel",
+    githubLink: "",
+    watchLiveLink: ""
   },
   {
     id: 3,
-    image: PhotoBootcampImage,
-    title: "Photo Bootcamp Landing Page",
-    githubLink: "https://github.com/VladimirVolvakov/photo-bootcamp",
-    watchLiveLink: "https://photo-bootcamp.vercel.app/"
+    image: VietNhatSchool,
+    title: "VietNhat School",
+    githubLink: "",
+    watchLiveLink: "http://quantrimamnontest.cncstone.vn/website-trang-chu"
   },
   {
     id: 4,
-    image: ReactWeatherAppImage,
-    title: "Weather Forecast React App",
-    githubLink: "https://github.com/VladimirVolvakov/weather-app",
-    watchLiveLink: "https://weather-app-eta-five.vercel.app/"
+    image: EnglishTest,
+    title: "English Test For Kid",
+    githubLink: "",
+    watchLiveLink: "http://quantrimamnontest.cncstone.vn/danh-muc-hoc-tap"
   }
 ];
 
